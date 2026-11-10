@@ -12,3 +12,5 @@ Units: 1 Neki = 1 rupee of work at today's market price, priced from TOPC's rate
 | 4 | 2026-11-10 | Kamal Khatwani | Work (99%) on #4: Scripts for 7 reels: build your shop's first app with AI | 3,811 | provisional | https://github.com/topc-social/vidyam-tasks/pull/6 |
 | 5 | 2026-11-10 | Kamal Khatwani | Idea (1%) for #2: Class 10 History lesson as a 12-Short YouTube playlist | 18 | provisional | https://github.com/topc-social/vidyam-tasks/issues/2 |
 | 6 | 2026-11-10 | Kamal Khatwani (via Claude) | Work (99%) on #2: Class 10 History lesson as a 12-Short YouTube playlist | 1,782 | provisional | https://github.com/topc-social/vidyam-tasks/issues/2 |
+| 7 | 2026-11-10 | Kamal Khatwani | Idea (1%) for #3: Class 10 Physics lesson as a 12-Short YouTube playlist | 18 | provisional | https://github.com/topc-social/vidyam-tasks/issues/3 |
+| 8 | 2026-11-10 | Kamal Khatwani (via Claude) | Work (99%) on #3: Class 10 Physics lesson as a 12-Short YouTube playlist | 1,782 | provisional | https://github.com/topc-social/vidyam-tasks/issues/3 |
